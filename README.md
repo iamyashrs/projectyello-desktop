@@ -32,10 +32,8 @@ This project was developed in Microsoft Visual Studios 2012 Express and written 
 For linking your facebook app, to the project yello app for access token for utilizing facebook graph search.
 
 Edit these strings.
-'''string client_id = "#";'''
-[client_id](https://github.com/yashrajsingh/ProjectYello-Desktop/blob/master/ProjectYello/facebook.cs#L23)
-'''string redirect_uri = "#";'''
-[redirect_uri](https://github.com/yashrajsingh/ProjectYello-Desktop/blob/master/ProjectYello/facebook.cs#L24)
+ -[client_id](https://github.com/yashrajsingh/ProjectYello-Desktop/blob/master/ProjectYello/facebook.cs#L23)
+ -[redirect_uri](https://github.com/yashrajsingh/ProjectYello-Desktop/blob/master/ProjectYello/facebook.cs#L24)
 
 
 **Packages**
